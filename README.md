@@ -15,7 +15,7 @@ The library is designed to be used in tandem with p5.js.
 3. Draw the object with > drawSVG(svg)
 
 ## Support
-At this stage the parser supports the following SVG commands:
+At this stage the parser supports the following SVG elements and commands:
 
 ### Path element
 | Command | Name | Parameters |Functionality |
